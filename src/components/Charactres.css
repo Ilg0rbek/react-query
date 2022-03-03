@@ -1,0 +1,32 @@
+.card {
+    display: flex;
+    border: 1px solid rgb(192, 186, 176);
+    width: 400px;
+    margin: 20px 20px auto;
+}
+.card > img {
+    width: 130px;
+    height: 130px;
+}
+.text-container {
+    margin: 10px 30px;
+}
+.status {
+    margin-top: 10px;
+}
+.title {
+    margin-top: 10px;
+}
+.character {
+    display: flex;
+    flex-wrap: wrap;
+    width: 900px;
+}
+.btn {
+    width: 70px;
+    height: 35px;
+    border-style: none;
+    margin: 10px 20px;
+    border-radius: 5px;
+    padding: 3px;
+}
